@@ -1,11 +1,6 @@
 {
-    "name": "Sandbox",
-    "rootNamespace": "Sandbox",
+    "name": "UniTask.Linq",
     "references": [
-        "Cinemachine",
-        "Rewired",
-        "Unity.TextMeshPro",
-        "Zenject",
         "UniTask"
     ],
     "includePlatforms": [],
